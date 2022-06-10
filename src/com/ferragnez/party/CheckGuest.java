@@ -31,6 +31,7 @@ public class CheckGuest {
 		else{
 			System.out.println("Sei Fuori mi dispiace");
 		}
+		
 	
 		scan.close();
 		
