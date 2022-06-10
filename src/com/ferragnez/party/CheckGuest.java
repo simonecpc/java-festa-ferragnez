@@ -29,7 +29,7 @@ public class CheckGuest {
 			System.out.println("Bravo sai dentro");
 		}
 		else{
-			System.out.println("Fuori dal cazzo");
+			System.out.println("Sei Fuori mi dispiace");
 		}
 	
 		scan.close();
